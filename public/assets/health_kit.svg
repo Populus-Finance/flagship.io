@@ -1,0 +1,4 @@
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect id="health_background" x="1" y="1" width="30" height="30" rx="8" fill="white" fill-opacity="0.6" stroke="#48D35F" stroke-width="2"/>
+<path id="red_cross" d="M14.2 14.2V7H17.8V14.2H25V17.8H17.8V25H14.2V17.8H7V14.2H14.2Z" fill="#FF0000"/>
+</svg>
